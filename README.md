@@ -3,4 +3,4 @@ This repository contains the source code used for the results in "CSI-based Posi
 
 
 The data used in this project can be found at https://homes.esat.kuleuven.be/~sdebast/.
-This website is still in erly stages and more documentation about the measruments will be added in the near future.
+This website is still in early stages and more documentation about the measruments will be added in the near future.
